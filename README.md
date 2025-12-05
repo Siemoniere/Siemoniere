@@ -1,4 +1,4 @@
 # Cześć! 👋 Jestem [Szymon Hładyszewski](https://shladyszewski.vercel.app/)
 
-## 📊 GitHub Activity Overview
-![Szymon's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=shladyszewski&theme=react-dark&area=true)
+## 👁 Liczba wyświetleń profilu  
+![Profile views](https://views.igorkowalczyk.dev/api/badge/shladyszewski?style=flat) :contentReference[oaicite:7]{index=7}
